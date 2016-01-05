@@ -1,0 +1,13 @@
+
+Usage: shields-ghi --owner=<owner> --repo=<repo> [options]
+
+Options:
+
+  -h,  --help                Print this message.
+  -V,  --version             Print the package version.
+       --owner owner         Repository owner.
+       --repo repo           Repository name.
+       --style style         Badge style. Default: 'flat'.
+       --format format       Badge format. Default: 'svg'.
+       --raw                 Create URLs for "raw" badges.
+

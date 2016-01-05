@@ -1,0 +1,21 @@
+{
+	"boolean": [
+		"help",
+		"version",
+		"raw"
+	],
+	"string": [
+		"owner",
+		"repo",
+		"style",
+		"format"
+	],
+	"alias": {
+		"help": [
+			"h"
+		],
+		"version": [
+			"V"
+		]
+	}
+}

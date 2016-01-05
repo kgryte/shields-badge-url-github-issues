@@ -1,6 +1,6 @@
 {
   "name": "shields-badge-url-github-issues",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates Shields.io badge URLs for Github issues.",
   "author": {
     "name": "Athan Reines",
